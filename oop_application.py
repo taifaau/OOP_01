@@ -39,4 +39,6 @@ java = Java_language("James Gosling", 1995)
 languges = [python, java]
 for l in languges:
     print("Creator: ", l.get_langCreator())
-    print(l.learn_me()) #abstraction 
+    print(l.learn_me()) 
+    
+
